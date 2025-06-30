@@ -1,0 +1,7 @@
+{
+    "concurrent_connections": 5,
+    "scan_rate": 7000,
+    "timeout_seconds": 30,
+    "masscan_path": "masscan",
+    "response_script_path": "response.js"
+} 
